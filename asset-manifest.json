@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pranali-bit/static/css/main.a617e044.chunk.css",
+    "main.js": "/pranali-bit/static/js/main.2418b138.chunk.js",
+    "main.js.map": "/pranali-bit/static/js/main.2418b138.chunk.js.map",
+    "runtime-main.js": "/pranali-bit/static/js/runtime-main.c3c4f6b6.js",
+    "runtime-main.js.map": "/pranali-bit/static/js/runtime-main.c3c4f6b6.js.map",
+    "static/js/2.7594a237.chunk.js": "/pranali-bit/static/js/2.7594a237.chunk.js",
+    "static/js/2.7594a237.chunk.js.map": "/pranali-bit/static/js/2.7594a237.chunk.js.map",
+    "static/js/3.624f8d41.chunk.js": "/pranali-bit/static/js/3.624f8d41.chunk.js",
+    "static/js/3.624f8d41.chunk.js.map": "/pranali-bit/static/js/3.624f8d41.chunk.js.map",
+    "index.html": "/pranali-bit/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/pranali-bit/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7594a237.chunk.js.LICENSE.txt": "/pranali-bit/static/js/2.7594a237.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pranali-bit/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3c4f6b6.js",
+    "static/js/2.7594a237.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2418b138.chunk.js"
+  ]
+}
